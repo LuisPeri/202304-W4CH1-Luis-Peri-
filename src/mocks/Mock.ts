@@ -1,4 +1,4 @@
-[
+export mock: [] = [
   {
     id: 1,
     name: "Bertin Osborne",
